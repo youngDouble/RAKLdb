@@ -1,6 +1,4 @@
-# Riemerella_anatipestifer_K_locus_Kaptive_db
-
-
+# Riemerella anatipestifer K locus Database
 
  This pipline is a Unix-style command-line tool that reports information about capsule polysaccharide synthesis loci and  serovar type for *Riemerella anatipestifer* genome assemblies.
 
