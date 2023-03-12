@@ -1,5 +1,5 @@
-LOCUS       7_RCAD0584_KL7_0       24557 bp    DNA     linear       10-MAR-2023
-DEFINITION  Riemerella anatipestifer strain strain.
+LOCUS       7_RCAD0584_KL7_1       24557 bp    DNA     linear       10-MAR-2023
+DEFINITION  Riemerella anatipestifer.
 ACCESSION   
 VERSION
 KEYWORDS    .
@@ -13,7 +13,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0584"
-                     /note="K locus: KL7_0"
+                     /note="K locus: KL7_1"
                      /note="K type: serovar7"
                      /note="Serovar: serovar7"
      gene            100..2025

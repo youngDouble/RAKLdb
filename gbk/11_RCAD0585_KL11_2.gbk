@@ -1,5 +1,5 @@
-LOCUS       11_RCAD0585_KL11_0     26309 bp    DNA     linear       10-MAR-2023
-DEFINITION  Riemerella anatipestifer strain strain.
+LOCUS       11_RCAD0585_KL11_2     26309 bp    DNA     linear       10-MAR-2023
+DEFINITION  Riemerella anatipestifer.
 ACCESSION   
 VERSION
 KEYWORDS    .
@@ -13,7 +13,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0585"
-                     /note="K locus: KL11_0"
+                     /note="K locus: KL11_2"
                      /note="K type: serovar11"
                      /note="Serovar: serovar11"
      gene            90..2015

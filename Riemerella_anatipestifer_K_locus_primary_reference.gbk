@@ -3941,7 +3941,7 @@ ORIGIN
     24901 ttcttagaca aataaatatc aataaggtac atctttatga ggtgtacctt tttatttgtg
     24961 taaaaatccc taaatttgca ggcttttaat ccattaatgt t
 //
-LOCUS       10_RCAD0563_KL10_0     25033 bp    DNA     linear       10-MAR-2023
+LOCUS       10_RCAD0563_KL10_7     25033 bp    DNA     linear       10-MAR-2023
 DEFINITION  Riemerella anatipestifer strain strain.
 ACCESSION   
 VERSION
@@ -3956,7 +3956,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0563"
-                     /note="K locus: KL10_0"
+                     /note="K locus: KL10_7"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            77..2002
@@ -10262,7 +10262,7 @@ ORIGIN
     22801 atcaataggg tacatcttta tgaggtgtac ctttttattt gtgtaaaaat ccctaaattt
     22861 gcaggctttt aatccattaa tgtt
 //
-LOCUS       11_RCAD0585_KL11_0     26309 bp    DNA     linear       10-MAR-2023
+LOCUS       11_RCAD0585_KL11_2     26309 bp    DNA     linear       10-MAR-2023
 DEFINITION  Riemerella anatipestifer strain strain.
 ACCESSION   
 VERSION
@@ -10277,7 +10277,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0585"
-                     /note="K locus: KL11_0"
+                     /note="K locus: KL11_2"
                      /note="K type: serovar11"
                      /note="Serovar: serovar11"
      gene            90..2015
@@ -16218,7 +16218,7 @@ ORIGIN
     26641 gagaattttg taataatttc ttagacaaat aaatattaat agggtatatc tttatagggt
     26701 gtaccttttt atttgtgtaa aaatccctaa atttgcaggc ttttaatcca ttaatgtt
 //
-LOCUS       2_RCAD0616_KL2_0       25791 bp    DNA     linear       10-MAR-2023
+LOCUS       2_RCAD0616_KL2_1       25791 bp    DNA     linear       10-MAR-2023
 DEFINITION  Riemerella anatipestifer strain strain.
 ACCESSION   
 VERSION
@@ -16233,7 +16233,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0616"
-                     /note="K locus: KL2_0"
+                     /note="K locus: KL2_1"
                      /note="K type: serovar2"
                      /note="Serovar: serovar2"
      gene            77..2002
@@ -22455,7 +22455,7 @@ ORIGIN
     27601 tagggtgtac ctttttattt gtgtaaaaat ccctaaattt gcaggctttt aatccattaa
     27661 tgtt
 //
-LOCUS       6_RCAD0662_KL6_0       27796 bp    DNA     linear       10-MAR-2023
+LOCUS       6_RCAD0662_KL6_2       27796 bp    DNA     linear       10-MAR-2023
 DEFINITION  Riemerella anatipestifer strain strain.
 ACCESSION   
 VERSION
@@ -22470,7 +22470,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0662"
-                     /note="K locus: KL6_0"
+                     /note="K locus: KL6_2"
                      /note="K type: serovar6"
                      /note="Serovar: serovar6"
      gene            90..2015
@@ -25186,7 +25186,7 @@ ORIGIN
     24481 ggtgtacctt tttatttgtg taaaaatccc taaatttgca ggcttttaat ccattaatgt
     24541 t
 //
-LOCUS       7_RCAD0584_KL7_0       24557 bp    DNA     linear       10-MAR-2023
+LOCUS       7_RCAD0584_KL7_1       24557 bp    DNA     linear       10-MAR-2023
 DEFINITION  Riemerella anatipestifer strain strain.
 ACCESSION   
 VERSION
@@ -25201,7 +25201,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0584"
-                     /note="K locus: KL7_0"
+                     /note="K locus: KL7_1"
                      /note="K type: serovar7"
                      /note="Serovar: serovar7"
      gene            100..2025

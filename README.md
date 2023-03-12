@@ -30,7 +30,7 @@ git clone https://github.com/youngDouble/Riemerella_anatipestifer_K_locus_Kaptiv
 
 ## How to run
 
-
+The **Riemerella anatipestifer K locus database** is compatible with `Kaptive` and can be used as described on the [Kaptive homepage](https://github.com/katholt/Kaptive/wiki/How-to-run).
 
 ```bash
 # activate Kaptive_ra environment
@@ -38,8 +38,6 @@ source ~/anaconda3/bin/activate Kaptive_ra
 ./Kaptive/kaptive.py -a test_ra_assemble.fna -t 30 -k ./Kaptive/Riemerella_anatipestifer_K_locus_Kaptive_db/Riemerella_anatipestifer_K_locus_primary_reference.gbk -g ./Kaptive/Riemerella_anatipestifer_K_locus_Kaptive_db/Riemerella_anatipestifer_wzx_wzy.fasta -o test 
 
 ```
-
-
 
 
 

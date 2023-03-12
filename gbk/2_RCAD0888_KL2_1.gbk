@@ -1,5 +1,5 @@
-LOCUS       2_RCAD0616_KL2_0       25791 bp    DNA     linear       10-MAR-2023
-DEFINITION  Riemerella anatipestifer strain strain.
+LOCUS       2_RCAD0888_KL2_1       25791 bp    DNA     linear       10-MAR-2023
+DEFINITION  Riemerella anatipestifer.
 ACCESSION   
 VERSION
 KEYWORDS    .
@@ -12,16 +12,16 @@ FEATURES             Location/Qualifiers
      source          1..25791
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
-                     /strain="RCAD0616"
-                     /note="K locus: KL2_0"
+                     /strain="RCAD0888"
+                     /note="K locus: KL2_1"
                      /note="K type: serovar2"
                      /note="Serovar: serovar2"
      gene            77..2002
                      /gene="pglF"
-                     /locus_tag="2_RCAD0616_00001"
+                     /locus_tag="2_RCAD0888_00001"
      CDS             77..2002
                      /gene="pglF"
-                     /locus_tag="2_RCAD0616_00001"
+                     /locus_tag="2_RCAD0888_00001"
                      /EC_number="4.2.1.135"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:Q0P9D4"
@@ -42,10 +42,10 @@ FEATURES             Location/Qualifiers
                      LYEELLSNDTKTLPTHHEKIMISKDPVMLYEEIDELTSRIYEKAKAKDKVEVVRILKE
                      TVKEFRSNNSVFESLDK"
      gene            2035..2850
-                     /locus_tag="2_RCAD0616_00002"
+                     /locus_tag="2_RCAD0888_00002"
                      /gene="wza"
      CDS             2035..2850
-                     /locus_tag="2_RCAD0616_00002"
+                     /locus_tag="2_RCAD0888_00002"
                      /gene="wza"
                      /inference="ab initio prediction:Prodigal:002006"
                      /codon_start=1
@@ -58,10 +58,10 @@ FEATURES             Location/Qualifiers
                      INSPYYHLKQNDVVMVAPNKTRQSAAMFGPQTGIYISIASVVVTILALVIRKN"
      gene            2883..5255
                      /gene="wzc"
-                     /locus_tag="2_RCAD0616_00003"
+                     /locus_tag="2_RCAD0888_00003"
      CDS             2883..5255
                      /gene="wzc"
-                     /locus_tag="2_RCAD0616_00003"
+                     /locus_tag="2_RCAD0888_00003"
                      /EC_number="2.7.10.-"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:O52788"
@@ -85,10 +85,10 @@ FEATURES             Location/Qualifiers
                      ANENINANRIKNVGFVLNDVSKSNFSYGNEYGYGYHVDEKTWFQKLKDKF"
      gene            5267..6238
                      /gene="wbgU"
-                     /locus_tag="2_RCAD0616_00004"
+                     /locus_tag="2_RCAD0888_00004"
      CDS             5267..6238
                      /gene="wbgU"
-                     /locus_tag="2_RCAD0616_00004"
+                     /locus_tag="2_RCAD0888_00004"
                      /EC_number="5.1.3.7"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:Q7BJX9"
@@ -102,9 +102,9 @@ FEATURES             Location/Qualifiers
                      YIDNVIQMNELAMLTDNPEAVNTVYNTAVGDRTTIKQMAELLKEYLSKYDEKIGEVEI
                      LHGPNRIGDIPHSLASIDKAKEHLGYAPTHVFEEGLKEAVDWYWENL"
      gene            6292..6648
-                     /locus_tag="2_RCAD0616_00005"
+                     /locus_tag="2_RCAD0888_00005"
      CDS             6292..6648
-                     /locus_tag="2_RCAD0616_00005"
+                     /locus_tag="2_RCAD0888_00005"
                      /inference="ab initio prediction:Prodigal:002006"
                      /codon_start=1
                      /transl_table=11
@@ -114,10 +114,10 @@ FEATURES             Location/Qualifiers
                      LITNQLNGLYNKLKND"
      gene            6715..7995
                      /gene="wbpA"
-                     /locus_tag="2_RCAD0616_00006"
+                     /locus_tag="2_RCAD0888_00006"
      CDS             6715..7995
                      /gene="wbpA"
-                     /locus_tag="2_RCAD0616_00006"
+                     /locus_tag="2_RCAD0888_00006"
                      /EC_number="1.1.1.136"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:G3XD94"
@@ -134,10 +134,10 @@ FEATURES             Location/Qualifiers
                      PDVRNTKIVDVIAALEDFGVKVTTYDPWANPEEVLHEYGIESTKKLPSQKFDAVILGV
                      AHKEFKELDLSSLKKNNAVVYDVKGILNESDCKL"
      gene            8047..9501
-                     /locus_tag="2_RCAD0616_00007"
+                     /locus_tag="2_RCAD0888_00007"
                      /gene="wzx"
      CDS             8047..9501
-                     /locus_tag="2_RCAD0616_00007"
+                     /locus_tag="2_RCAD0888_00007"
                      /gene="wzx"
                      /inference="ab initio prediction:Prodigal:002006"
                      /codon_start=1
@@ -153,9 +153,9 @@ FEATURES             Location/Qualifiers
                      LLLLNVYFVSKVIPYSFTEQLADLFRNLVPGLFILGAFRFIKHINPVFDLQVFFLMLF
                      CFFSCVFYIIFGKVLSLKLSIYIIEWIENKVIKR"
      gene            9498..10361
-                     /locus_tag="2_RCAD0616_00008"
+                     /locus_tag="2_RCAD0888_00008"
      CDS             9498..10361
-                     /locus_tag="2_RCAD0616_00008"
+                     /locus_tag="2_RCAD0888_00008"
                      /inference="ab initio prediction:Prodigal:002006"
                      /codon_start=1
                      /transl_table=11
@@ -168,10 +168,10 @@ FEATURES             Location/Qualifiers
                      LRFFRNLIKLI"
      gene            10364..12181
                      /gene="asnB_1"
-                     /locus_tag="2_RCAD0616_00009"
+                     /locus_tag="2_RCAD0888_00009"
      CDS             10364..12181
                      /gene="asnB_1"
-                     /locus_tag="2_RCAD0616_00009"
+                     /locus_tag="2_RCAD0888_00009"
                      /EC_number="6.3.5.4"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:P54420"
@@ -191,10 +191,10 @@ FEATURES             Location/Qualifiers
                      TKKIVRDILKEYIPEKIFTQPKKGFAVPLGNWIRSELKSDILDKLSDDFLRTIPNLDI
                      IKFKKQLNQHLDGKYDYSFNIWKLYVLALWCEEFKMKIS"
      gene            12178..13371
-                     /locus_tag="2_RCAD0616_00010"
+                     /locus_tag="2_RCAD0888_00010"
                      /gene="wzy"
      CDS             12178..13371
-                     /locus_tag="2_RCAD0616_00010"
+                     /locus_tag="2_RCAD0888_00010"
                      /gene="wzy"
                      /inference="ab initio prediction:Prodigal:002006"
                      /codon_start=1
@@ -209,9 +209,9 @@ FEATURES             Location/Qualifiers
                      LLSDYKKTSIKKITLLFLVCYIAVWITQFIVMRNNIAESYHADVILLLDILMQAPMNL
                      NQPLR"
      gene            13376..14461
-                     /locus_tag="2_RCAD0616_00011"
+                     /locus_tag="2_RCAD0888_00011"
      CDS             13376..14461
-                     /locus_tag="2_RCAD0616_00011"
+                     /locus_tag="2_RCAD0888_00011"
                      /inference="ab initio prediction:Prodigal:002006"
                      /codon_start=1
                      /transl_table=11
@@ -224,9 +224,9 @@ FEATURES             Location/Qualifiers
                      GQPNALIEAMVAGLAFVASSIDPIKETVSTDFHHLLVEPDDVRRASEMIEFFYLNPDK
                      LETVNLSSWAIEQYDAQTQFDKFYKKL"
      gene            14463..15650
-                     /locus_tag="2_RCAD0616_00012"
+                     /locus_tag="2_RCAD0888_00012"
      CDS             14463..15650
-                     /locus_tag="2_RCAD0616_00012"
+                     /locus_tag="2_RCAD0888_00012"
                      /inference="ab initio prediction:Prodigal:002006"
                      /codon_start=1
                      /transl_table=11
@@ -241,10 +241,10 @@ FEATURES             Location/Qualifiers
                      SIK"
      gene            15977..17866
                      /gene="asnB_2"
-                     /locus_tag="2_RCAD0616_00013"
+                     /locus_tag="2_RCAD0888_00013"
      CDS             15977..17866
                      /gene="asnB_2"
-                     /locus_tag="2_RCAD0616_00013"
+                     /locus_tag="2_RCAD0888_00013"
                      /EC_number="6.3.5.4"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:P54420"
@@ -266,10 +266,10 @@ FEATURES             Location/Qualifiers
                      NMHLE"
      gene            17874..19034
                      /gene="pglA"
-                     /locus_tag="2_RCAD0616_00014"
+                     /locus_tag="2_RCAD0888_00014"
      CDS             17874..19034
                      /gene="pglA"
-                     /locus_tag="2_RCAD0616_00014"
+                     /locus_tag="2_RCAD0888_00014"
                      /EC_number="2.4.1.290"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:Q0P9C9"
@@ -286,9 +286,9 @@ FEATURES             Location/Qualifiers
                      YFAIADALVFPSYREGFPNVVMQAGAMGLPSVVSDINGCNEIIVNNKNGVIVPVKDVG
                      SLGQVMQSIVEDNDFYLRLKENSREMVVGRYQQKVVWEALLQEYKQLLNGIN"
      gene            19021..20088
-                     /locus_tag="2_RCAD0616_00015"
+                     /locus_tag="2_RCAD0888_00015"
      CDS             19021..20088
-                     /locus_tag="2_RCAD0616_00015"
+                     /locus_tag="2_RCAD0888_00015"
                      /inference="ab initio prediction:Prodigal:002006"
                      /codon_start=1
                      /transl_table=11
@@ -302,10 +302,10 @@ FEATURES             Location/Qualifiers
                      VIQFFLFLNYIMKFQNVQKLF"
      gene            20069..20677
                      /gene="pglC"
-                     /locus_tag="2_RCAD0616_00016"
+                     /locus_tag="2_RCAD0888_00016"
      CDS             20069..20677
                      /gene="pglC"
-                     /locus_tag="2_RCAD0616_00016"
+                     /locus_tag="2_RCAD0888_00016"
                      /EC_number="2.7.8.36"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:Q0P9D0"
@@ -320,10 +320,10 @@ FEATURES             Location/Qualifiers
                      VHNLSLFLDIKVLFLTVKKVFVSEGISQEGQATMEPFKGNEV"
      gene            20674..21276
                      /gene="epsM"
-                     /locus_tag="2_RCAD0616_00017"
+                     /locus_tag="2_RCAD0888_00017"
      CDS             20674..21276
                      /gene="epsM"
-                     /locus_tag="2_RCAD0616_00017"
+                     /locus_tag="2_RCAD0888_00017"
                      /EC_number="2.3.1.-"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:P71063"
@@ -337,10 +337,10 @@ FEATURES             Location/Qualifiers
                      GVKIGKWATIGAGAVVIKDVPDGATVVGNPARVIRIQNIE"
      gene            21278..22411
                      /gene="epsN"
-                     /locus_tag="2_RCAD0616_00018"
+                     /locus_tag="2_RCAD0888_00018"
      CDS             21278..22411
                      /gene="epsN"
-                     /locus_tag="2_RCAD0616_00018"
+                     /locus_tag="2_RCAD0888_00018"
                      /EC_number="2.6.1.-"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:Q795J3"
@@ -357,9 +357,9 @@ FEATURES             Location/Qualifiers
                      EVFAEPSEDYFSNHWLSAVVIDAQKAGFSREDLRLKFLEDNIESRPLWKPMHLQPVFA
                      EAPYYGGRVAEQLFENGLCLPSGSNLTDADRQRISEVVYKLKS"
      gene            22560..23153
-                     /locus_tag="2_RCAD0616_00019"
+                     /locus_tag="2_RCAD0888_00019"
      CDS             22560..23153
-                     /locus_tag="2_RCAD0616_00019"
+                     /locus_tag="2_RCAD0888_00019"
                      /inference="ab initio prediction:Prodigal:002006"
                      /codon_start=1
                      /transl_table=11
@@ -370,10 +370,10 @@ FEATURES             Location/Qualifiers
                      EIIFPHKIKLNLEYLERVSFKEDIRILLKTCGIFFNK"
      gene            23187..23732
                      /gene="rmlC"
-                     /locus_tag="2_RCAD0616_00020"
+                     /locus_tag="2_RCAD0888_00020"
      CDS             23187..23732
                      /gene="rmlC"
-                     /locus_tag="2_RCAD0616_00020"
+                     /locus_tag="2_RCAD0888_00020"
                      /EC_number="5.1.3.13"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:P37745"
@@ -387,10 +387,10 @@ FEATURES             Location/Qualifiers
                      ETDVILSEKDKVQLPFSKKNF"
      gene            23740..24825
                      /gene="rmlB"
-                     /locus_tag="2_RCAD0616_00021"
+                     /locus_tag="2_RCAD0888_00021"
      CDS             23740..24825
                      /gene="rmlB"
-                     /locus_tag="2_RCAD0616_00021"
+                     /locus_tag="2_RCAD0888_00021"
                      /EC_number="4.2.1.46"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:P26391"
@@ -407,10 +407,10 @@ FEATURES             Location/Qualifiers
                      WFLNNQDWLENVTSGAYQEYYKEQYKN"
      gene            24830..25687
                      /gene="rmlA"
-                     /locus_tag="2_RCAD0616_00022"
+                     /locus_tag="2_RCAD0888_00022"
      CDS             24830..25687
                      /gene="rmlA"
-                     /locus_tag="2_RCAD0616_00022"
+                     /locus_tag="2_RCAD0888_00022"
                      /EC_number="2.7.7.24"
                      /inference="ab initio prediction:Prodigal:002006"
                      /inference="similar to AA sequence:UniProtKB:P26393"
