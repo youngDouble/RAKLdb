@@ -736,7 +736,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0121"
-                     /note="K locus: KL10_1"
+                     /note="K locus: KL10-1"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            77..2002
@@ -1619,7 +1619,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0127"
-                     /note="K locus: KL10_6"
+                     /note="K locus: KL10-6"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            77..2002
@@ -2379,7 +2379,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0146"
-                     /note="K locus: KL10_9"
+                     /note="K locus: KL10-9"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            77..2002
@@ -3096,7 +3096,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0420"
-                     /note="K locus: KL10_2"
+                     /note="K locus: KL10-2"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            77..2005
@@ -3956,7 +3956,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0563"
-                     /note="K locus: KL10_7"
+                     /note="K locus: KL10-7"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            77..2002
@@ -4839,7 +4839,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0856"
-                     /note="K locus: KL10_5"
+                     /note="K locus: KL10-5"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            77..2002
@@ -5603,7 +5603,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0857"
-                     /note="K locus: KL10_8"
+                     /note="K locus: KL10-8"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            122..2002
@@ -6328,7 +6328,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0958"
-                     /note="K locus: KL10_3"
+                     /note="K locus: KL10-3"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            77..2002
@@ -7097,7 +7097,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0981"
-                     /note="K locus: KL10_4"
+                     /note="K locus: KL10-4"
                      /note="K type: serovar10"
                      /note="Serovar: serovar10"
      gene            77..2002
@@ -8606,7 +8606,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0181"
-                     /note="K locus: KL11_4"
+                     /note="K locus: KL11-4"
                      /note="K type: serovar11"
                      /note="Serovar: serovar11"
      gene            90..2015
@@ -9503,7 +9503,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0566"
-                     /note="K locus: KL11_1"
+                     /note="K locus: KL11-1"
                      /note="K type: serovar11"
                      /note="Serovar: serovar11"
      gene            135..2015
@@ -10277,7 +10277,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0585"
-                     /note="K locus: KL11_2"
+                     /note="K locus: KL11-2"
                      /note="K type: serovar11"
                      /note="Serovar: serovar11"
      gene            90..2015
@@ -11174,7 +11174,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0611"
-                     /note="K locus: KL11_3"
+                     /note="K locus: KL11-3"
                      /note="K type: serovar11"
                      /note="Serovar: serovar11"
      gene            90..2015
@@ -14385,7 +14385,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD1069"
-                     /note="K locus: KL1_1"
+                     /note="K locus: KL1-1"
                      /note="K type: serovar1"
                      /note="Serovar: serovar1"
      gene            90..2015
@@ -16233,7 +16233,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0888"
-                     /note="K locus: KL2_1"
+                     /note="K locus: KL2-1"
                      /note="K type: serovar2"
                      /note="Serovar: serovar2"
      gene            77..2002
@@ -19716,7 +19716,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0931"
-                     /note="K locus: KL5_1"
+                     /note="K locus: KL5-1"
                      /note="K type: serovar5"
                      /note="Serovar: serovar5"
      gene            81..2006
@@ -21524,7 +21524,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0152-1"
-                     /note="K locus: KL6_3"
+                     /note="K locus: KL6-3"
                      /note="K type: serovar6"
                      /note="Serovar: serovar6"
      gene            90..2015
@@ -22470,7 +22470,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0662"
-                     /note="K locus: KL6_2"
+                     /note="K locus: KL6-2"
                      /note="K type: serovar6"
                      /note="Serovar: serovar6"
      gene            90..2015
@@ -23414,7 +23414,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0872"
-                     /note="K locus: KL6_1"
+                     /note="K locus: KL6-1"
                      /note="K type: serovar6"
                      /note="Serovar: serovar6"
      gene            90..2015
@@ -25201,7 +25201,7 @@ FEATURES             Location/Qualifiers
                      /organism="Riemerella anatipestifer"
                      /mol_type="genomic DNA"
                      /strain="RCAD0584"
-                     /note="K locus: KL7_1"
+                     /note="K locus: KL7-1"
                      /note="K type: serovar7"
                      /note="Serovar: serovar7"
      gene            100..2025
