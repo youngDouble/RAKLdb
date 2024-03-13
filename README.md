@@ -43,7 +43,7 @@ source ~/anaconda3/bin/activate Kaptive_ra
 
 If you use the *Riemerella anatipestifer* K locus databases in your research, please cite these papers:
 
-- [Genome-wide association study reveals serovar-associated genetic loci in *Riemerella anatipestifer*. BMC Genomics, 2024](https://doi.org/10.1186/s12864-024-09988-4)
+- [Genome-wide association study reveals serovar-associated genetic loci in *Riemerella anatipestifer*. BMC Genomics, (2024)](https://doi.org/10.1186/s12864-024-09988-4)
 - [Identification of *Klebsiella* capsule synthesis loci from whole genome data. *Microbial Genomics* (2016).](http://mgen.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000102)
 - [Kaptive 2.0: updated capsule and LPS locus typing for the *Klebsiella pneumoniae* species complex. *Microbial Genomics* (2022).](https://doi.org/10.1099/mgen.0.000800)
 
